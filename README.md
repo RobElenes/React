@@ -1,4 +1,4 @@
-Description
+
 
 This is the README file for my GitHub repository showcasing my experience as a React Software Engineer. The repository contains a project I worked on as a remote developer for Monefi, a non-profit FINTECH company based in Los Angeles, CA. The project involved developing various components using React and other related technologies to create a seamless and dynamic user experience.
 
